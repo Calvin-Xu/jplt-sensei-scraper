@@ -1,0 +1,255 @@
+warning: missing all images after 200 (of 253)
+
+ 1|敢えて（あえて）|dare to; daringly; deliberately; purposely ~
+ 2|あくまでも|to the end; persistently; absolutely; is still very ~
+ 3|案の定（あんのじょう）|just as one thought; as usual; sure enough
+ 4|あらかじめ|beforehand; in advance; previously
+ 5|あっての|which can exist solely due to the presence of; which owes everything to
+ 6|ばこそ|only because ~
+ 7|ばそれまでだ / たらそれまでだ|if… then it’s over
+ 8|べからず / べからざる|must not; should not; do not ~
+ 9|べく|in order to; for the purpose of ~
+ 10|べくもない|cannot possibly be ~
+ 11|べくして|as it is bound to (happen); following the natural course
+ 12|びる / びて / びた|to seem to be; to appear; to behave as ~
+ 13|ぶり / っぷり|style; manner; way
+ 14|ぶる / ぶって / ぶった|assuming the air of; behaving like; to pretend / act like ~
+ 15|だに / だにしない|even; not even ~
+ 16|だの～だの|and; and the like; and so forth ~
+ 17|だろうに|(1) surely..., but ~; although... is likely, ~ (2) should have (regret); might / must have been ~
+ 18|であれ / であろうと|whoever; whatever; however; even ~
+ 19|であれ～であれ|whether [A] or [B]
+ 20|でもあり～でもある|to also be; both… and ~
+ 21|でも何でもない / くも何ともない（でもなんでもない / くもなんともない）|not in the least; nothing like that
+ 22|でなくてなんだろう|must be; is definitely ~
+ 23|ではあるまいか|isn't it; I wonder if it’s not ~
+ 24|ではあるまいし|it’s not like; it isn’t as if ~
+ 25|では済まない（ではすまない）|it doesn’t end with just ~; it will take more than ~
+ 26|どうにも～ない|not … by any means; no matter how hard one tries, cannot  ~
+ 27|が早いか（がはやいか）|no sooner than; as soon as ~
+ 28|が/も～なら、～も～だ|negative connection/comparison (like father like son)
+ 29|がましい|look like; sound like; approximate; similar to; somewhat like ~
+ 30|がてら|while; on the same occasion; at the same time; coincidentally ~
+ 31|ごとき / ごとく / ごとし|like; as if; the same as ~
+ 32|ぐるみ|together (with); -wide
+ 33|羽目になる（はめになる）|to get stuck with; to end up with (something unpleasant)
+ 34|ほどのことではない|it's not worth; no need to ~
+ 35|ほうがましだ|better than; would rather ~
+ 36|放題（ほうだい）|doing as one pleases; to one's heart's content; leaving uncontrolled
+ 37|いかんだ / いかんでは / いかんによっては|in accordance with; depending on; whether or not ~
+ 38|いかんにかかわらず / いかんによらず / いかんをとわず|regardless of; whether or not; doesn't matter whether ~
+ 39|いかなる|any kind of; every; whatsoever; whatever
+ 40|いかに|how; in what way; how much; to what extent
+ 41|いかにも|indeed; really; truly; just (like); very; extremely ~
+ 42|いずれにしても / いずれにしろ / いずれにせよ|anyhow; anyway; either way; in any case ~
+ 43|じみた|to become; to appear like; to look like; tainted with ~
+ 44|か否か（かいなか）|whether or not ~
+ 45|かと思いきや（かとおもいきや）|contrary to expectations; or so we thought, but ~
+ 46|限りだ（かぎりだ）|to feel strongly
+ 47|甲斐もなく（かいもなく）|despite; even though ~
+ 48|可能性がある（かのうせいがある）|may/might; there’s a possibility that ~
+ 49|からある / からする / からの|at least; as much as; as many as ~
+ 50|かれ～かれ|sooner or later; more or less
+ 51|かたがた|while; at the same time; incidentally; for the purpose of ~
+ 52|かたわら|while; besides; at the same time; in addition
+ 53|かつて|once; before; formerly; ever; former; ex-
+ 54|嫌いがある（きらいがある）|bad habit; to have a tendency to ~
+ 55|切りがない（きりがない）|endless; boundless; going on forever; there’s no end to ~
+ 56|きっての|the most / greatest … of all
+ 57|極まる / 極まりない（きわまる / きわまりない）|extremely; very ~
+ 58|こそあれ|although; even though ~
+ 59|こそすれ|and; although; but ~
+ 60|こそ「～が・けれど」|but; although (emphasis)
+ 61|ことごとく|altogether; entirely; completely ~
+ 62|ことこの上ない / この上ない / この上なく（ことこのうえない / このうえない / このうえなく）|the most of all; the best; nothing is more ... than ~
+ 63|こともあって|partly because; also because of; plus the reason for ~
+ 64|ことなしに|without doing something
+ 65|ことのないように|so as not to; to not ~
+ 66|こととて|because; since ~
+ 67|くらいなら|rather than (do ...)
+ 68|くらいのものだ|only (emphasis)
+ 69|までだ / までのことだ|only; just; nothing else
+ 70|までもない / までもなく|there's no need to; it’s not necessary to ~
+ 71|まじき|should not; must not ~
+ 72|まくる|to do over and over again; to do relentlessly
+ 73|まみれ|covered with; stained; smeared with ~
+ 74|まるっきり|completely; absolutely; totally; (not) at all ~
+ 75|めく|seems; show signs of; to have the appearance of ~
+ 76|も同然だ（もどうぜんだ）|just like; same as~
+ 77|もさることながら|one may well say so, but~; not only... but also ~
+ 78|もしないで|without even doing ~
+ 79|もはや|already; now; no longer; not anymore
+ 80|もので|because; for that reason
+ 81|ものを|if only; I wish; I'm sorry it's not actually (regret)
+ 82|ものと思われる / ものと見られる（ものとおもわれる / ものとみられる）|to think; to suppose; it is believed/expected that ~
+ 83|ものとする|shall; to assume; understood as ~
+ 84|ものとして|to assume; to suppose; on the presumption that ~
+ 85|もしくは|or; otherwise
+ 86|んばかりに|as if; as though ~
+ 87|んがために|in order to ~
+ 88|ながらに / ながらの|while; during; without change; performed in this condition
+ 89|ないまでも|not to say; although it does not reach the level of ~
+ 90|ないものでもない|is not entirely impossible
+ 91|ないものか / ないものだろうか|isn't there; can’t we…?; can’t I…?
+ 92|ないとも限らない（ないともかぎらない）|not necessarily; I can't say that; maybe; might ~
+ 93|なくしては|cannot do without ~
+ 94|並み（なみ）|average; ordinary; same level as; equal to; on par with ~
+ 95|なんという / なんと / なんて|how (beautiful, etc.); what a ~
+ 96|何しろ（なにしろ）|at any rate; after all; anyhow; anyway; in any case; because; as you know ~
+ 97|ならでは|distinctive of; uniquely applying to; special to ~
+ 98|ならいざしらず / はいざしらず|I don't know about ... but; it may be possible for ... but ~
+ 99|なり|as soon as; right after ~
+ 100|なりに / なりの|suitable; in one's own way/style
+ 101|なりとも|at least; even just a little (adverbial particle)
+ 102|なり～なり|[A] or [B] or something; for instance ~
+ 103|なしに / なしで|without; without doing ~
+ 104|に|and; in addition to; the combination of ~
+ 105|に値する（にあたいする）|to be worth; to be worthy of; to deserve; to merit ~
+ 106|にあって|at; on; during; in the condition of ~
+ 107|に引き換え（にひきかえ）|compared to; in contrast to; unlike; while; whereas ~
+ 108|に至る / に至った（にいたる / にいたった）|leads to; come to a conclusion
+ 109|に至るまで（にいたるまで）|as far as; up until; everything from ... to ~
+ 110|に至っても（にいたっても）|even if; even though; although something reached the point ~
+ 111|に至っては（にいたっては）|when it comes to; as for ~
+ 112|に言わせれば（にいわせれば）|if you ask; if one may say ~
+ 113|に限ったことではない（にかぎったことではない）|not limited to only ~
+ 114|にかかっては / にかかったら / にかかると / かかれば|when handled by (N), becomes a completely different result
+ 115|にかかっている|depending on; to depend on; whether or not
+ 116|にかこつけて|to use as a pretext; to use as an excuse
+ 117|にかまけて|to be too busy; to focus / concentrate only on ~
+ 118|に難くない（にかたくない）|easy to do; it’s not hard to (imagine, understand, guess)
+ 119|にまつわる|to be related to; to concern; associated with ~
+ 120|に則って（にのっとって）|based on; according to; in accordance with ~
+ 121|に先駆けて（にさきがけて）|prior to; to be the first (pioneer); being ahead of ~
+ 122|に忍びない（にしのびない）|cannot bring oneself (to do); unable to bear ~
+ 123|にしたところで / としたところで|even if; even supposing that ~
+ 124|にして|at / on / under certain conditions (time, position, age, number of times)
+ 125|に即して（にそくして）|according to; in keeping with; to be based on ~
+ 126|に耐える / に耐えない（にたえる / にたえない）|worth doing; can do; cannot bear doing ~
+ 127|に足らない / に足りない（にたらない / にたりない）|cannot; not worthy; not worth doing ~
+ 128|に足る / に足りる（にたる / にたりる）|can do; worthy; worth doing
+ 129|に照らして（にてらして）|according to; in view of; in light of ~
+ 130|にとどまらず|not limited to; not only… but also ~
+ 131|には無理がある（にはむりがある）|difficult to do; is unreasonable / unrealistic / impossible
+ 132|によらず|regardless of ~
+ 133|に～を重ねて（に～をかさねて）|success after continuous (effort, work, adjustments, etc.)
+ 134|にもほどがある|there is a limit to what is acceptable; to go too far
+ 135|にも増して（にもまして）|more than…; above ~
+ 136|には当たらない（にはあたらない）|it’s not worth; there’s no need to; does not correspond to ~
+ 137|には及ばない（にはおよばない）|there is no need to; unnecessary; no match for ~
+ 138|の至り（のいたり）|utmost; extremely ~
+ 139|の極み（のきわみ）|utmost; extremely ~
+ 140|のなんのって|extremely ~ (cannot be expressed in words)
+ 141|のやら / ものやら / ことやら|I wonder..; unsure; I don’t know ~
+ 142|のやら～のやら|or ~ (I don't know)
+ 143|を踏まえて（をふまえて）|to be based on; to take into account ~
+ 144|を経て（をへて）|through; by way of; after; via ~
+ 145|を控えて（をひかえて）|to be soon; the time has come to; nearby; ahead of ~
+ 146|をいいことに|to take advantage of ~
+ 147|を顧みず / も顧みず（をかえりみず / もかえりみず）|despite; without considering; not worrying about; regardless of ~
+ 148|を限りに（をかぎりに）|starting from; the last time (ending a continued action)
+ 149|を兼ねて（をかねて）|also for the purpose of ~
+ 150|を皮切りに（をかわきりに）|one after another; starting with ~
+ 151|を機に（をきに）|as an opportunity/chance to ~
+ 152|を禁じ得ない（をきんじえない）|can’t help but; can’t refrain from ~
+ 153|をものともせずに|in defiance of; not losing to / afraid / worrying about ~
+ 154|をもって / をもちまして|by means of; with; on / at / as of (time)
+ 155|をおいて～ない|only; can only be; there is no alternative, only ~
+ 156|を押して / を押し切って（をおして / をおしきって）|to overcome (opposition); to push past ~
+ 157|を境に（をさかいに）|since ~ (indicates a large change before & after)
+ 158|を余儀なくされる（をよぎなくされる）|to be forced to do something because one has no other choice
+ 159|をよそに|despite; without regards to ~
+ 160|を前提として（をぜんていとして）|with the intention to; on the condition / assumption ~
+ 161|思いをする（おもいをする）|to think; to feel ~
+ 162|折に（おりに）|when; at the time; on the occasion ~
+ 163|およそ|about; roughly; generally; approximately; completely ~
+ 164|さ|ending particle; indicates assertion
+ 165|さも|really (seem, appear, etc.); truly; as if ~
+ 166|さもないと|otherwise; or else; if not ~
+ 167|さぞ|surely; certainly; no doubt; indeed ~
+ 168|始末だ（しまつだ）|end up; in the end; as a result (negative)
+ 169|そばから|as soon as; right after ~
+ 170|そびれる|to miss a chance; to fail to do ~
+ 171|損なう / 損ねる / 損じる（そこなう / そこねる / そんじる）|to do something wrong; by mistake; to miss a chance; to fail to ~
+ 172|術がない（すべがない）|there is no way / means; cannot do ~
+ 173|すら / ですら|even ~ (with emphasis)
+ 174|た弾みに / た拍子に（たはずみに / たひょうしに）|the moment [A], unintentionally / inadvertently caused something to happen
+ 175|たことにする / たことになる|pretend to; see things as untrue; contrary to the truth ~
+ 176|たところで|even if; no matter (who, what, when, where, why, how)
+ 177|たつもりはない|have no intention to / didn't mean to ~
+ 178|ただ～のみだ|all we can do is; can do nothing but; only ~
+ 179|ためしがない|is never the case; has never happened; I have never seen or heard of ~
+ 180|たら最後 / たが最後（たらさいご / たがさいご）|if you do... negative result
+ 181|たら～たで|if / in the case... of course / should ~
+ 182|たら～ところだ|if... (counterfactual condition), then would be ~
+ 183|たりとも|not even; not any ~
+ 184|たるもの / たる|(those) who are; (that) which is; in the capacity of ... should ~
+ 185|て敵わない（てかなわない）|can't bear to; unable to; troublesome to; can’t stand to ~
+ 186|てからというもの|ever since ~
+ 187|てみせる|I’ll do my best; I'll definitely do; I'll show you ~
+ 188|てしかるべきだ|should; appropriate; it is natural to do ~
+ 189|て済むことではない（てすむことではない）|~ is not enough to solve the problem; cannot be resolved by ~
+ 190|てやまない|always; never stop; can’t help but ~
+ 191|手前（てまえ）|considering; before; in front of; one’s standpoint
+ 192|てもどうにもならない|it's no use; can't do anything
+ 193|ても差し支えない（てもさしつかえない）|can ~; it’s okay if ~ (indicates permission or compromise)
+ 194|ても知らない（てもしらない）|if (you) continue... you'll end up / I don't care about it
+ 195|と相まって（とあいまって）|together with..., more; because of the influence of..., more ~
+ 196|とあれば|if it is the case that; if ~
+ 197|とあって|due to the fact that; because of ~
+ 198|とばかりに|as if to say; as though~
+ 199|といえども|even if; even though; despite ~
+ 200|と言えなくもない（といえなくもない）|one can even say that; it can also be said that ~
+ 201|といい～といい|both ... and; not only ... also; whether it be ... or ~
+ 202|といったらない|extremely; very; nothing more ... than this; as ... as it could possibly be
+ 203|という|all; every single ~ (no exceptions)
+ 204|というか～というか|or rather; or perhaps I should say; I mean ~
+ 205|というもの|during; for; since; over a period of time
+ 206|というところだ / といったところだ|at the most; no more than; at best; roughly; about ~
+ 207|というわけだ|that's why; no wonder; this means; it is the case that ~
+ 208|というわけではない|it’s not that; it doesn’t mean that ~
+ 209|といわず～といわず|both; not only A or B, but (overall) ~
+ 210|ときている|because of ~
+ 211|とみると|as soon as one realizes ..., then ~
+ 212|と見るや（とみるや）|at the sight of; upon seeing; after confirming ~
+ 213|となると / となれば|when it comes to; in such a case; if that happens
+ 214|とされる|is considered to; it is said that ~
+ 215|ときたら|when it comes to; concerning ~
+ 216|ところを|although (it is a certain time/condition); even though normally
+ 217|ともあろうものが|of all people (expression showing surprise at a high standing person's misbehavior)
+ 218|ともなく / ともなしに|somehow; without knowing; without thinking; unconsciously ~
+ 219|ともすれば|apt to (do); tend to; liable to; prone to ~
+ 220|とも～とも|unable to draw a conclusion; unable to judge
+ 221|とりわけ|especially; above all ~
+ 222|としたことが|of all people, who would have thought?
+ 223|とっさに|at once; right away; promptly
+ 224|とて|even; even if/though ~
+ 225|とは|I didn't know; I was surprised that; the fact that ~
+ 226|とはいえ|though; although; be that as it may; nonetheless
+ 227|とは比べものにならない（とはくらべものにならない）|can't compare with ~
+ 228|とは打って変わって / とは打って変わり（とはうってかわって / とはうってかわり）|unlike; totally different; very different from ~
+ 229|つ～つ |and ~ (indicates two contrasting actions)
+ 230|尽くす（つくす）|to use up (completely without anything remaining); to exhaust; to run out of ~
+ 231|ってば / ったら|speaking of; I told you already; come on (annoyance / dissatisfaction)
+ 232|うちに入らない（うちにはいらない）|not really; can't be regarded as ~
+ 233|わ|feminine sentence ending particle
+ 234|はどうであれ|however; whatever ~
+ 235|はおろか|let alone; not to mention; needless to say ~
+ 236|はさておき|setting aside ~
+ 237|はそっちのけで / をそっちのけで|ignoring (one thing) for (another); instead of ~
+ 238|わ〜わで|and (listing negative things happening at the same time)
+ 239|や否や（やいなや）|as soon as; the moment ~
+ 240|やしない |should do, but don't; absolutely not; there's no way ~
+ 241|やれ～やれ|pattern to give two representative examples (usually negative)
+ 242|ようが / ようと|even if; no matter how/what ~
+ 243|ようが～ようが / ようと～ようと|no matter; whether; even if [A] or [B]
+ 244|ようによっては / ようでは|depending on the way; depending on how; according to how ~
+ 245|ようにも～ない|even if I wanted to… I couldn’t ~
+ 246|ようと～まいと / ようが～まいが|whether or not; regardless
+ 247|ゆえに|therefore; consequently; because of; due to ~
+ 248|ぞ・ぜ|ending particle; adds force or indicates command
+ 249|ずじまい|ended up not doing ~
+ 250|ずにはおかない / ないではおかない|will definitely/certainly do something; cannot not ~
+ 251|ずには済まない / ないでは済まない（ずにはすまない / ないではすまない）|must; will definitely; can’t help but to ~
+ 252|ずとも|even without doing; even without being ~
+ 253|ずくめ|completely; entirely; nothing but ~
