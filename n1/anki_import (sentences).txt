@@ -1,0 +1,257 @@
+ <img src="jlptsenseigrammar-n1-1.png">|<div>彼は<font color="#e7000d">あえて</font>一人で行く気ですか。</div>
+ <img src="jlptsenseigrammar-n1-2.png">|<div>空は<font color="#e7000d">あくまでも</font>青い。</div>
+ <img src="jlptsenseigrammar-n1-3.png">|<div><font color="#e7000d">案の定</font>、結果がよくないだ。</div>
+ <img src="jlptsenseigrammar-n1-4.png">|<div><font color="#e7000d">あらかじめ</font>教科書を読んでください。</div>
+ <img src="jlptsenseigrammar-n1-1.png">|<div>彼は<font color="#e7000d">あえて</font>一人で行く気ですか。</div>
+ <img src="jlptsenseigrammar-n1-2.png">|<div>空は<font color="#e7000d">あくまでも</font>青い。</div>
+ <img src="jlptsenseigrammar-n1-3.png">|<div><font color="#e7000d">案の定</font>、結果がよくないだ。</div>
+ <img src="jlptsenseigrammar-n1-4.png">|<div><font color="#e7000d">あらかじめ</font>教科書を読んでください。</div>
+ <img src="jlptsenseigrammar-n1-5.png">|<div>健康な体<font color="#e7000d">あっての</font>人生です。</div>
+ <img src="jlptsenseigrammar-n1-6.png">|<div>優勝できたのは、チーム全員の協力あれ<font color="#e7000d">ばこそ</font>だ。</div>
+ <img src="jlptsenseigrammar-n1-7.png">|<div>いくらお金をためでも、死んでしまえば<font color="#e7000d">それまでだ</font>。</div>
+ <img src="jlptsenseigrammar-n1-8.png">|<div>ここに駐車する<font color="#e7000d">べからず</font>。</div>
+ <img src="jlptsenseigrammar-n1-9.png">|<div>JLPT N1に合格す<font color="#e7000d">べく</font>、毎日頑張って勉強しています。</div>
+ <img src="jlptsenseigrammar-n1-10.png">|<div>彼は勉強をせずに毎日遊んでばかりいた。N１合格は望む<font color="#e7000d">べくもない</font>。</div>
+ <img src="jlptsenseigrammar-n1-11.png">|<div>あの子は何も勉強せずに、遊びばかりしているんから、大学試験に落ちる<font color="#e7000d">べくして</font>落ちた。</div>
+ <img src="jlptsenseigrammar-n1-12.png">|<div>え、彼女３０歳なの？ずいぶん幼<font color="#e7000d">びて</font>見えますね。</div>
+ <img src="jlptsenseigrammar-n1-13.png">|<div>先生はその生徒のがんばり<font color="#e7000d">ぶり</font>を見ていた。</div>
+ <img src="jlptsenseigrammar-n1-14.png">|<div>彼は金持ち<font color="#e7000d">ぶっている</font>が、本当は借金がたくさんある。</div>
+ <img src="jlptsenseigrammar-n1-15.png">|<div>こんな事故が起きるとは想像<font color="#e7000d">だにしなかった</font>。</div>
+ <img src="jlptsenseigrammar-n1-16.png">|<div>父は酒<font color="#e7000d">だの</font>、タバコ<font color="#e7000d">だの</font>が好きで、健康が心配です。</div>
+ <img src="jlptsenseigrammar-n1-17.png">|<div>私があなたの立場だったら、辞めている<font color="#e7000d">だろうに</font>。</div>
+ <img src="jlptsenseigrammar-n1-18.png">|<div>若い時はどんな仕事<font color="#e7000d">であれ</font>、一生懸命取り組みました。</div>
+ <img src="jlptsenseigrammar-n1-19.png">|<div>彼がお金持ち<font color="#e7000d">であれ</font>貧乏<font color="#e7000d">であれ</font>、私の気持ちが変わることはない。</div>
+ <img src="jlptsenseigrammar-n1-20.png">|<div>明日の試合は興奮<font color="#e7000d">でもあり</font>、緊張<font color="#e7000d">でもある</font>。</div>
+ <img src="jlptsenseigrammar-n1-21.png">|<div>誕生日<font color="#e7000d">でもなんでもない</font>のにプレゼントをもらった。</div>
+ <img src="jlptsenseigrammar-n1-22.png">|<div>彼女に対するこの気持ちは、愛<font color="#e7000d">でなくてなんだろう</font>。</div>
+ <img src="jlptsenseigrammar-n1-23.png">|<div>この調子なら、今年の売り上げ目標を達成できる<font color="#e7000d">のではあるまいか</font>。</div>
+ <img src="jlptsenseigrammar-n1-24.png">|<div>子供<font color="#e7000d">ではあるまいし</font>、泣くのはやめなさい。</div>
+ <img src="jlptsenseigrammar-n1-25.png">|<div>このストーリーはただの笑い話<font color="#e7000d">では済まられない</font>と思うところがある。</div>
+ <img src="jlptsenseigrammar-n1-26.png">|<div>こんな蒸し暑い天気は、<font color="#e7000d">どうにも</font>我慢でき<font color="#e7000d">ない</font>。</div>
+ <img src="jlptsenseigrammar-n1-27.png">|<div>その人は、信号の色が変わる<font color="#e7000d">が早いか</font>、走り出した。</div>
+ <img src="jlptsenseigrammar-n1-28.png">|<div>先生<font color="#e7000d">が</font>先生<font color="#e7000d">なら</font>、学生<font color="#e7000d">も</font>学生<font color="#e7000d">だ</font>。</div>
+ <img src="jlptsenseigrammar-n1-29.png">|<div>差し出<font color="#e7000d">がましい</font>男だ。</div>
+ <img src="jlptsenseigrammar-n1-30.png">|<div>散歩<font color="#e7000d">がてら</font>、コンビニに行ってくるよ。</div>
+ <img src="jlptsenseigrammar-n1-31.png">|<div>彼は風<font color="#e7000d">のごとく</font>走っています。</div>
+ <img src="jlptsenseigrammar-n1-32.png">|<div>私たちは家族<font color="#e7000d">ぐるみ</font>で仲良くしている。</div>
+ <img src="jlptsenseigrammar-n1-33.png">|<div>私は歩く時に転んで、入院する<font color="#e7000d">羽目になった</font>。</div>
+ <img src="jlptsenseigrammar-n1-34.png">|<div>それは悲しむ<font color="#e7000d">ほどのことではない</font>。</div>
+ <img src="jlptsenseigrammar-n1-35.png">|<div>あなたと結婚するくらいなら、独身<font color="#e7000d">のほうがましだ</font>。</div>
+ <img src="jlptsenseigrammar-n1-36.png">|<div>焼肉食べ<font color="#e7000d">放題</font>大人一人2,500円。</div>
+ <img src="jlptsenseigrammar-n1-37.png">|<div>検査の結果<font color="#e7000d">いかんでは</font>、入院もあり得ます。</div>
+ <img src="jlptsenseigrammar-n1-38.png">|<div>理由<font color="#e7000d">のいかんにかかわらず</font>、ここに駐車をしてはいけない。</div>
+ <img src="jlptsenseigrammar-n1-39.png">|<div>君は<font color="#e7000d">いかなる</font>状況でも部屋を離れてはならない。</div>
+ <img src="jlptsenseigrammar-n1-40.png">|<div>これが<font color="#e7000d">いかに</font>難しいかわかり始めている。</div>
+ <img src="jlptsenseigrammar-n1-41.png">|<div>彼女は<font color="#e7000d">いかにも</font>女優です。</div>
+ <img src="jlptsenseigrammar-n1-42.png">|<div><font color="#e7000d">いずれにしても</font>スケジュールは変更できない。</div>
+ <img src="jlptsenseigrammar-n1-43.png">|<div>その男は子供<font color="#e7000d">じみた</font>ことをしてよく妻を困らせた。</div>
+ <img src="jlptsenseigrammar-n1-44.png">|<div>私にはそれが真実<font color="#e7000d">か否か</font>が分からない。</div>
+ <img src="jlptsenseigrammar-n1-45.png">|<div>今日は一日中晴れる<font color="#e7000d">と思いきや</font>、午後からざあざあ降りになった。</div>
+ <img src="jlptsenseigrammar-n1-46.png">|<div>妹の結婚式に出られないとは、残念<font color="#e7000d">な限りだ</font>。</div>
+ <img src="jlptsenseigrammar-n1-47.png">|<div>待った<font color="#e7000d">かいもなく</font>、彼はとうとう帰ってこなかった。</div>
+ <img src="jlptsenseigrammar-n1-48.png">|<div>これをいっぱい食べたら、病気<font color="#e7000d">の可能性がある</font>よ。</div>
+ <img src="jlptsenseigrammar-n1-49.png">|<div>３００万<font color="#e7000d">からする</font>車を買った。</div>
+ <img src="jlptsenseigrammar-n1-50.png">|<div>この番組も、遅<font color="#e7000d">かれ</font>早<font color="#e7000d">かれ</font>視聴者に飽きられるだろう。</div>
+ <img src="jlptsenseigrammar-n1-51.png">|<div>本日はお礼<font color="#e7000d">かたがた</font>お伺いました。</div>
+ <img src="jlptsenseigrammar-n1-52.png">|<div>彼女は歌手<font color="#e7000d">のかたわら</font>、モデルとしても活躍している。</div>
+ <img src="jlptsenseigrammar-n1-53.png">|<div>彼女はフランスに<font color="#e7000d">かつて</font>住んでいた。</div>
+ <img src="jlptsenseigrammar-n1-54.png">|<div>彼は物事を少しすぎる<font color="#e7000d">嫌いがある</font>。</div>
+ <img src="jlptsenseigrammar-n1-55.png">|<div>彼女との思い出は語り出したら<font color="#e7000d">切りがない</font>。</div>
+ <img src="jlptsenseigrammar-n1-56.png">|<div>彼はうちの大学<font color="#e7000d">きっての</font>秀才だ。</div>
+ <img src="jlptsenseigrammar-n1-57.png">|<div>彼の態度は失礼<font color="#e7000d">極まる</font>。</div>
+ <img src="jlptsenseigrammar-n1-58.png">|<div>ここは、不便<font color="#e7000d">でこそあれ</font>、緑が多くていいところです。</div>
+ <img src="jlptsenseigrammar-n1-59.png">|<div>勝ち<font color="#e7000d">こそすれ</font>決して負けません。</div>
+ <img src="jlptsenseigrammar-n1-60.png">|<div>この生徒は字<font color="#e7000d">こそ</font>汚い<font color="#e7000d">が</font>、いい文章を書く。</div>
+ <img src="jlptsenseigrammar-n1-61.png">|<div>生徒は<font color="#e7000d">ことごとく</font>知っている。</div>
+ <img src="jlptsenseigrammar-n1-62.png">|<div><font color="#e7000d">この上なく</font>幸せだ。</div>
+ <img src="jlptsenseigrammar-n1-63.png">|<div>今日は天気がいい<font color="#e7000d">こともあって</font>、公園にたくさん人が来ている。</div>
+ <img src="jlptsenseigrammar-n1-64.png">|<div>今日は朝食を食べる<font color="#e7000d">ことなしに</font>学校へ行った 。</div>
+ <img src="jlptsenseigrammar-n1-65.png">|<div>道に迷う<font color="#e7000d">ことのないように</font>、グーグルマップで場所を確かめておいた。</div>
+ <img src="jlptsenseigrammar-n1-66.png">|<div>新入社員で慣れぬ<font color="#e7000d">こととて</font>、失礼があればお許しください。</div>
+ <img src="jlptsenseigrammar-n1-67.png">|<div>そんなことをする<font color="#e7000d">くらいなら</font>、死んだほうがましだ。</div>
+ <img src="jlptsenseigrammar-n1-68.png">|<div>息子が電話をよこすのは、お金に困った時<font color="#e7000d">ぐらいのものだ</font>。</div>
+ <img src="jlptsenseigrammar-n1-69.png">|<div>ちょっと聞いてみた<font color="#e7000d">までだ</font>。</div>
+ <img src="jlptsenseigrammar-n1-70.png">|<div>それは問題にする<font color="#e7000d">までもない</font>ことだ。</div>
+ <img src="jlptsenseigrammar-n1-71.png">|<div>生徒に暴力を振るなんて、先生<font color="#e7000d">としてあるまじき</font>行為だ。</div>
+ <img src="jlptsenseigrammar-n1-72.png">|<div>彼は日曜日なのに仕事をし<font color="#e7000d">まくっていた</font>。</div>
+ <img src="jlptsenseigrammar-n1-73.png">|<div>彼は汗<font color="#e7000d">まみれ</font>だった。</div>
+ <img src="jlptsenseigrammar-n1-74.png">|<div>これは私の欲しいものと<font color="#e7000d">まるっきり</font>反対だ。</div>
+ <img src="jlptsenseigrammar-n1-75.png">|<div>暑くなって、ずいぶん夏<font color="#e7000d">めいて</font>きましたね。</div>
+ <img src="jlptsenseigrammar-n1-76.png">|<div>友達ですが、子供の頃からずっとそばにいるので兄弟<font color="#e7000d">も同然です</font>。</div>
+ <img src="jlptsenseigrammar-n1-77.png">|<div>彼女は外見<font color="#e7000d">もさることながら</font>性格<font color="#e7000d">も</font>とてもいいです。</div>
+ <img src="jlptsenseigrammar-n1-78.png">|<div>彼女は、いつもやり<font color="#e7000d">もしないで</font>、できないと言う。</div>
+ <img src="jlptsenseigrammar-n1-79.png">|<div><font color="#e7000d">もはや</font>意味はありません。</div>
+ <img src="jlptsenseigrammar-n1-80.png">|<div>朝寝坊した<font color="#e7000d">もので</font>、授業に遅刻してしまいました。</div>
+ <img src="jlptsenseigrammar-n1-81.png">|<div>お金が無いなら、言ってくれたらよかった<font color="#e7000d">ものを</font>。</div>
+ <img src="jlptsenseigrammar-n1-82.png">|<div>この店のパスタは冷凍した<font color="#e7000d">ものと思われる</font>。</div>
+ <img src="jlptsenseigrammar-n1-83.png">|<div>第５条議長は全会議を主宰する<font color="#e7000d">ものとする</font>。</div>
+ <img src="jlptsenseigrammar-n1-84.png">|<div>スミスさんはもう来ない<font color="#e7000d">ものとして</font>、始めましょう。</div>
+ <img src="jlptsenseigrammar-n1-85.png">|<div>遅刻するの場合は先生<font color="#e7000d">もしくは</font>僕に連絡してください。</div>
+ <img src="jlptsenseigrammar-n1-86.png">|<div>川の水が溢れ<font color="#e7000d">んばかりに</font>なっている。</div>
+ <img src="jlptsenseigrammar-n1-87.png">|<div>一人の青年がおぼれている子供を救わ<font color="#e7000d">んがために</font>、川に飛び込んだ。</div>
+ <img src="jlptsenseigrammar-n1-88.png">|<div>彼女は涙<font color="#e7000d">ながらの</font>友達と別れた。</div>
+ <img src="jlptsenseigrammar-n1-89.png">|<div>暑いと言わ<font color="#e7000d">ないまでも</font>、暖かい。</div>
+ <img src="jlptsenseigrammar-n1-90.png">|<div>あなたが本気で勉強すれば、半年でN1合格をでき<font color="#e7000d">ないものでもない</font>。</div>
+ <img src="jlptsenseigrammar-n1-91.png">|<div>あなたがもう少し分かりやすく話せ<font color="#e7000d">ないものか</font>。</div>
+ <img src="jlptsenseigrammar-n1-92.png">|<div>間違え<font color="#e7000d">ないとも限らない</font>ので、もう一度確認した方がいい。</div>
+ <img src="jlptsenseigrammar-n1-93.png">|<div>努力<font color="#e7000d">なくしては</font>成功などあり得ない。</div>
+ <img src="jlptsenseigrammar-n1-94.png">|<div>君の料理はプロ<font color="#e7000d">並み</font>だ。</div>
+ <img src="jlptsenseigrammar-n1-95.png">|<div>ここからの景色、<font color="#e7000d">なんて</font>綺麗<font color="#e7000d">なんだろう</font>。</div>
+ <img src="jlptsenseigrammar-n1-96.png">|<div>僕はお腹がすいたよ。<font color="#e7000d">何しろ</font>朝からご飯を食べていないからね。</div>
+ <img src="jlptsenseigrammar-n1-97.png">|<div>納豆は日本<font color="#e7000d">ならでは</font>の食べ物だ。</div>
+ <img src="jlptsenseigrammar-n1-98.png">|<div>10年前<font color="#e7000d">ならいざ知らず</font>、今時、テレビを持っていない人は珍しい</div>
+ <img src="jlptsenseigrammar-n1-99.png">|<div>家を出る<font color="#e7000d">なり</font>、雨が降りだした。</div>
+ <img src="jlptsenseigrammar-n1-100.png">|<div>初心者<font color="#e7000d">なりに</font>よくやった。</div>
+ <img src="jlptsenseigrammar-n1-101.png">|<div>誰<font color="#e7000d">なりとも</font>連れて来い。</div>
+ <img src="jlptsenseigrammar-n1-102.png">|<div>どうせ暇なら、掃除<font color="#e7000d">なり</font>洗濯<font color="#e7000d">なり</font>してくれない？</div>
+ <img src="jlptsenseigrammar-n1-103.png">|<div>あなた<font color="#e7000d">なしでは</font>生きていけない。</div>
+ <img src="jlptsenseigrammar-n1-104.png">|<div>日本の朝食と言えば、ご飯<font color="#e7000d">に</font>お味噌汁でしょう。</div>
+ <img src="jlptsenseigrammar-n1-105.png">|<div>彼女の行為は尊敬<font color="#e7000d">に値する</font>。</div>
+ <img src="jlptsenseigrammar-n1-106.png">|<div>彼は事故<font color="#e7000d">にあって</font>足を折った。</div>
+ <img src="jlptsenseigrammar-n1-107.png">|<div>去年のJLPT<font color="#e7000d">にひきかえ</font>、今年のはとても難しかった。</div>
+ <img src="jlptsenseigrammar-n1-108.png">|<div>この道は公園<font color="#e7000d">に至る</font>。</div>
+ <img src="jlptsenseigrammar-n1-109.png">|<div>会社の面接で、貯金の額<font color="#e7000d">に至るまで</font>、いろいろ聞かれた。</div>
+ <img src="jlptsenseigrammar-n1-110.png">|<div>株価がここまで下落する<font color="#e7000d">に至っても</font>彼はまだ売りたくないらしい。</div>
+ <img src="jlptsenseigrammar-n1-111.png">|<div>いつも賛成するの母<font color="#e7000d">に至っては</font>今度、僕の計画に反対した。</div>
+ <img src="jlptsenseigrammar-n1-112.png">|<div>私<font color="#e7000d">に言わせれば</font>、日本の一番美味しい料理はやっぱりラーメンだ。</div>
+ <img src="jlptsenseigrammar-n1-113.png">|<div>若者のマナーが悪いのは、この国<font color="#e7000d">に限ったことではない</font>。</div>
+ <img src="jlptsenseigrammar-n1-114.png">|<div>彼の説明<font color="#e7000d">にかかったら</font>みんな商品を買ってしまう。</div>
+ <img src="jlptsenseigrammar-n1-115.png">|<div>合格できるかどうかは、これから１ヶ月のがんばり<font color="#e7000d">にかかっている</font>。</div>
+ <img src="jlptsenseigrammar-n1-116.png">|<div>夫はいつも仕事<font color="#e7000d">にかこつけて</font>帰りが遅いです。</div>
+ <img src="jlptsenseigrammar-n1-117.png">|<div>彼はゲーム<font color="#e7000d">にかまけて</font>全然勉強しなかった。</div>
+ <img src="jlptsenseigrammar-n1-118.png">|<div>彼らが離婚したことは想像<font color="#e7000d">に難くない</font>。</div>
+ <img src="jlptsenseigrammar-n1-119.png">|<div>私はファッション<font color="#e7000d">にまつわる</font>事柄が好きです。</div>
+ <img src="jlptsenseigrammar-n1-120.png">|<div>私はその契約<font color="#e7000d">に則って</font>支払います。</div>
+ <img src="jlptsenseigrammar-n1-121.png">|<div>その映画は、世界<font color="#e7000d">に先駆けて</font>、日本での上映を決まった。</div>
+ <img src="jlptsenseigrammar-n1-122.png">|<div>熱でつらそうな子供を見る<font color="#e7000d">に忍びない</font>。</div>
+ <img src="jlptsenseigrammar-n1-123.png">|<div>いくらおいしい<font color="#e7000d">にしたって</font>、その見た目じゃ食べる気にならない。</div>
+ <img src="jlptsenseigrammar-n1-124.png">|<div>３回目<font color="#e7000d">にして</font>、やっとN１に合格することができた。</div>
+ <img src="jlptsenseigrammar-n1-125.png">|<div>学校の規則<font color="#e7000d">に即して</font>、学生の髪の毛は黒色にしなければならない。</div>
+ <img src="jlptsenseigrammar-n1-126.png">|<div>この展示は鑑賞<font color="#e7000d">に耐える</font>作品が少ない。</div>
+ <img src="jlptsenseigrammar-n1-127.png">|<div>それは取る<font color="#e7000d">に足らない</font>話だ。</div>
+ <img src="jlptsenseigrammar-n1-128.png">|<div>彼はその仕事を任せる<font color="#e7000d">に足る</font>人です。</div>
+ <img src="jlptsenseigrammar-n1-129.png">|<div>彼は社則<font color="#e7000d">に照らして</font>処分された。</div>
+ <img src="jlptsenseigrammar-n1-130.png">|<div>母のケーキ作りは単なる趣味<font color="#e7000d">にとどまらず</font>、自分の店を開くまでになった。</div>
+ <img src="jlptsenseigrammar-n1-131.png">|<div>こんなにたくさんの料理を一人で食べる<font color="#e7000d">には無理がある</font>。</div>
+ <img src="jlptsenseigrammar-n1-132.png">|<div>性別、年齢<font color="#e7000d">によらず</font>、条件に当てはまる方であれば誰でもいいです。</div>
+ <img src="jlptsenseigrammar-n1-133.png">|<div>苦労<font color="#e7000d">に</font>苦労<font color="#e7000d">を重ねて</font>、僕はここまで成長できた。</div>
+ <img src="jlptsenseigrammar-n1-134.png">|<div>冗談<font color="#e7000d">にもほどがある</font>。</div>
+ <img src="jlptsenseigrammar-n1-135.png">|<div>昨日のテストはいつ<font color="#e7000d">にも増して</font>難しかった気がする。</div>
+ <img src="jlptsenseigrammar-n1-136.png">|<div>彼女の実力を知っていたので、N1合格も驚く<font color="#e7000d">に当たらない</font>。</div>
+ <img src="jlptsenseigrammar-n1-137.png">|<div>タクシーで帰るので、ご心配<font color="#e7000d">には及びません</font>。</div>
+ <img src="jlptsenseigrammar-n1-138.png">|<div>こんな素晴らしい賞をいただいて、光栄<font color="#e7000d">の至り</font>です。</div>
+ <img src="jlptsenseigrammar-n1-139.png">|<div>優勝できて、感激<font color="#e7000d">の極み</font>です。</div>
+ <img src="jlptsenseigrammar-n1-140.png">|<div>このカレーは辛い<font color="#e7000d">のなんのって</font>、全然食べられなかった。</div>
+ <img src="jlptsenseigrammar-n1-141.png">|<div>今の不景気はいつまで続く<font color="#e7000d">のやら</font>？</div>
+ <img src="jlptsenseigrammar-n1-142.png">|<div>彼はバスに間に合った<font color="#e7000d">のやら</font>間に合わなかった<font color="#e7000d">のやら</font>．．．</div>
+ <img src="jlptsenseigrammar-n1-143.png">|<div>集めたデータ<font color="#e7000d">を踏まえて</font>レポートを作成します。</div>
+ <img src="jlptsenseigrammar-n1-144.png">|<div>さまざまな海外での経験<font color="#e7000d">を経て</font>、彼は成長した。</div>
+ <img src="jlptsenseigrammar-n1-145.png">|<div>私の帰国<font color="#e7000d">を控えて</font>、友人たちが送別会を開いてくれた。</div>
+ <img src="jlptsenseigrammar-n1-146.png">|<div>私は夏休み<font color="#e7000d">であるのをいいことに</font>外国を旅行する。</div>
+ <img src="jlptsenseigrammar-n1-147.png">|<div>危険<font color="#e7000d">も顧みず</font>彼は彼女を救うために川へ飛び込んだ。</div>
+ <img src="jlptsenseigrammar-n1-148.png">|<div>今日<font color="#e7000d">を限りに</font>酒をやめることにした。</div>
+ <img src="jlptsenseigrammar-n1-149.png">|<div>私は興味と実益<font color="#e7000d">を兼ねて</font>、イラストを描いています。</div>
+ <img src="jlptsenseigrammar-n1-150.png">|<div>今日の会議では、田中さんの発言<font color="#e7000d">を皮切りにして</font>反対意見が次々と出た。</div>
+ <img src="jlptsenseigrammar-n1-151.png">|<div>会社を辞めたの<font color="#e7000d">を機に</font>、サイクリングを始めた。</div>
+ <img src="jlptsenseigrammar-n1-152.png">|<div>彼の不幸な人生には、同情<font color="#e7000d">を禁じえない</font>。</div>
+ <img src="jlptsenseigrammar-n1-153.png">|<div>そのテニス選手は足の怪我<font color="#e7000d">をものともせずに</font>、優勝した。</div>
+ <img src="jlptsenseigrammar-n1-154.png">|<div>彼女の実力<font color="#e7000d">をもって</font>すれば、成功するだろう。</div>
+ <img src="jlptsenseigrammar-n1-155.png">|<div>私が将来やりたい仕事は、教師<font color="#e7000d">をおいてほかに</font>考えられ<font color="#e7000d">ない</font>。</div>
+ <img src="jlptsenseigrammar-n1-156.png">|<div>コーチの反対<font color="#e7000d">を押して</font>怪我をしているのに試合に出た。</div>
+ <img src="jlptsenseigrammar-n1-157.png">|<div>大学の卒業<font color="#e7000d">を境に</font>、同じクラスの友達とも会わなくなった。</div>
+ <img src="jlptsenseigrammar-n1-158.png">|<div>その試合は雨のため、延期<font color="#e7000d">を余儀なくされた</font>。</div>
+ <img src="jlptsenseigrammar-n1-159.png">|<div>親の心配<font color="#e7000d">をよそに</font>、彼女は一人旅に出かけた。</div>
+ <img src="jlptsenseigrammar-n1-160.png">|<div>私たちは結婚<font color="#e7000d">を前提として</font>交際しています。</div>
+ <img src="jlptsenseigrammar-n1-161.png">|<div>歯医者に行くたびに僕は痛い<font color="#e7000d">思いをする</font>。</div>
+ <img src="jlptsenseigrammar-n1-162.png">|<div>お暇<font color="#e7000d">の折には</font>ぜひ遊びに来てください。</div>
+ <img src="jlptsenseigrammar-n1-163.png">|<div>私は<font color="#e7000d">およそ</font>100冊の本を持っています。</div>
+ <img src="jlptsenseigrammar-n1-164.png">|<div>やってみる<font color="#e7000d">さ</font>！</div>
+ <img src="jlptsenseigrammar-n1-165.png">|<div>彼は<font color="#e7000d">さも</font>おいし<font color="#e7000d">そうに</font>ビールを飲みほした。</div>
+ <img src="jlptsenseigrammar-n1-166.png">|<div>急ぎなさい！<font color="#e7000d">さもないと</font>あなたは学校に遅れるでしょう。</div>
+ <img src="jlptsenseigrammar-n1-167.png">|<div>お父さんが病気になって、<font color="#e7000d">さぞ</font>ご心配だろう。</div>
+ <img src="jlptsenseigrammar-n1-168.png">|<div>うちの娘は、ダイエットのしすぎで病気になり、入院する<font color="#e7000d">始末だ</font>。</div>
+ <img src="jlptsenseigrammar-n1-169.png">|<div>名前を聞いた<font color="#e7000d">そばから</font>忘れてしまう。</div>
+ <img src="jlptsenseigrammar-n1-170.png">|<div>遅刻して飛行機に乗り<font color="#e7000d">そびれた</font>。</div>
+ <img src="jlptsenseigrammar-n1-171.png">|<div>逃げた飼い犬を捕まえ<font color="#e7000d">損ねた</font>。</div>
+ <img src="jlptsenseigrammar-n1-172.png">|<div>こんなに壊れては、もう直す<font color="#e7000d">術がない</font>。</div>
+ <img src="jlptsenseigrammar-n1-173.png">|<div>こんな問題、小学生<font color="#e7000d">すら</font>わかるよ。</div>
+ <img src="jlptsenseigrammar-n1-174.png">|<div>くしゃみをし<font color="#e7000d">た拍子に</font>メガネが落ちた。</div>
+ <img src="jlptsenseigrammar-n1-175.png">|<div>それは無かっ<font color="#e7000d">たことにして</font>下さい。</div>
+ <img src="jlptsenseigrammar-n1-176.png">|<div>どんなに走っ<font color="#e7000d">たところで</font>、絶対に間に合わないだろう。</div>
+ <img src="jlptsenseigrammar-n1-177.png">|<div>私はそんなことを言っ<font color="#e7000d">たつもりはない</font>。</div>
+ <img src="jlptsenseigrammar-n1-178.png">|<div>今は<font color="#e7000d">ただ</font>みんなの無事を祈る<font color="#e7000d">のみです</font>。</div>
+ <img src="jlptsenseigrammar-n1-179.png">|<div>そんな事は今までに聞いた<font color="#e7000d">ためしがない</font>。</div>
+ <img src="jlptsenseigrammar-n1-180.png">|<div>うちの子はいったん遊びに出<font color="#e7000d">たら最後</font>、暗くなるまで戻ってこない。</div>
+ <img src="jlptsenseigrammar-n1-181.png">|<div>失敗し<font color="#e7000d">たら</font>し<font color="#e7000d">たで</font>、もう一度チャレンジすればいい。</div>
+ <img src="jlptsenseigrammar-n1-182.png">|<div>もし遅刻しなけれ<font color="#e7000d">ば</font>、今頃ゆっくりお昼ご飯でも食べてる<font color="#e7000d">ところだ</font>。</div>
+ <img src="jlptsenseigrammar-n1-183.png">|<div>彼は１日<font color="#e7000d">たりとも</font>、学校を休んだことが<font color="#e7000d">ない</font>。</div>
+ <img src="jlptsenseigrammar-n1-184.png">|<div>医者<font color="#e7000d">たるもの</font>、患者の命を優先に考えるべきだ。</div>
+ <img src="jlptsenseigrammar-n1-185.png">|<div>隣の工事がうるさく<font color="#e7000d">て敵わない</font>。</div>
+ <img src="jlptsenseigrammar-n1-186.png">|<div>ジョギングを始め<font color="#e7000d">てからというもの</font>、とても体調がいい。</div>
+ <img src="jlptsenseigrammar-n1-187.png">|<div>今度の試験には、絶対合格し<font color="#e7000d">てみせる</font>よ。</div>
+ <img src="jlptsenseigrammar-n1-188.png">|<div>後輩なら先輩に敬語を使って<font color="#e7000d">しかるべきだ</font>。</div>
+ <img src="jlptsenseigrammar-n1-189.png">|<div>人のカメラを壊して、弁償<font color="#e7000d">で済むことではない</font>よ。君はちゃんと謝らないと。</div>
+ <img src="jlptsenseigrammar-n1-190.png">|<div>僕は君たちの合格を願っ<font color="#e7000d">てやまない</font>。</div>
+ <img src="jlptsenseigrammar-n1-191.png">|<div>自分が一番若い<font color="#e7000d">手前</font>、皆のお茶を入れるのは当然だ。</div>
+ <img src="jlptsenseigrammar-n1-192.png">|<div>今さら反対し<font color="#e7000d">てもどうなるものでもない</font>。</div>
+ <img src="jlptsenseigrammar-n1-193.png">|<div>お返事は明日<font color="#e7000d">でも差し支えない</font>。</div>
+ <img src="jlptsenseigrammar-n1-194.png">|<div>早く起きなさい。間に合わなく<font color="#e7000d">ても知らない</font>よ。</div>
+ <img src="jlptsenseigrammar-n1-195.png">|<div>空の青<font color="#e7000d">と相まって</font>、紅葉がより美しく見える。</div>
+ <img src="jlptsenseigrammar-n1-196.png">|<div>必要<font color="#e7000d">とあれば</font>力を貸します。</div>
+ <img src="jlptsenseigrammar-n1-197.png">|<div>夏休み<font color="#e7000d">とあって</font>、平日なのに学生がたくさんいる。</div>
+ <img src="jlptsenseigrammar-n1-198.png">|<div>あッ<font color="#e7000d">とばかりに</font>驚いた。</div>
+ <img src="jlptsenseigrammar-n1-199.png">|<div>プロ<font color="#e7000d">といえども</font>、失敗することだってある。</div>
+ <img src="jlptsenseigrammar-n1-200.png">|<div>８時起床は早起き<font color="#e7000d">と言えなくもない</font>。</div>
+ <img src="jlptsenseigrammar-n1-201.png">|<div>このレストランは、料理の味<font color="#e7000d">といい</font>値段<font color="#e7000d">といい</font>、文句のつけようがない。</div>
+ <img src="jlptsenseigrammar-n1-202.png">|<div>昨日うちの店がテレビで紹介されたので、今日は忙しい<font color="#e7000d">ったらない</font>。</div>
+ <img src="jlptsenseigrammar-n1-203.png">|<div>津波によって家<font color="#e7000d">という</font>家が全て流されてしまった。</div>
+ <img src="jlptsenseigrammar-n1-204.png">|<div>気温が低すぎて、寒い<font color="#e7000d">というか</font>痛い。</div>
+ <img src="jlptsenseigrammar-n1-205.png">|<div>この一週間<font color="#e7000d">というもの</font>、そればっかりです。</div>
+ <img src="jlptsenseigrammar-n1-206.png">|<div>彼女は多く見ても２０歳<font color="#e7000d">というところだ</font>。</div>
+ <img src="jlptsenseigrammar-n1-207.png">|<div>それが私たちの目的<font color="#e7000d">というわけです</font>。</div>
+ <img src="jlptsenseigrammar-n1-208.png">|<div>それは全くウソ<font color="#e7000d">というわけではない</font>。</div>
+ <img src="jlptsenseigrammar-n1-209.png">|<div>顔<font color="#e7000d">といわず</font>、手<font color="#e7000d">といわず</font>泥まみれだ。</div>
+ <img src="jlptsenseigrammar-n1-210.png">|<div>あのレストランは、料理が美味しい上にサービスもいい<font color="#e7000d">ときている</font>から、客はいつも多い。</div>
+ <img src="jlptsenseigrammar-n1-211.png">|<div>彼女は、店員が中国人だ<font color="#e7000d">とみると</font>、中国語で話しかける。</div>
+ <img src="jlptsenseigrammar-n1-212.png">|<div>母親が出かける<font color="#e7000d">と見るや</font>、ゲームをはじめた。</div>
+ <img src="jlptsenseigrammar-n1-213.png">|<div>いざ出発<font color="#e7000d">となると</font>、不安になってきた。</div>
+ <img src="jlptsenseigrammar-n1-214.png">|<div>彼のやったことは法律違反<font color="#e7000d">とされる</font>。</div>
+ <img src="jlptsenseigrammar-n1-215.png">|<div>私の息子<font color="#e7000d">ときたら</font>、もうすぐ試験なのに遊んでばかりいるんですよ。</div>
+ <img src="jlptsenseigrammar-n1-216.png">|<div>お忙しい<font color="#e7000d">ところを</font>お集りいただき、ありがとうございます。</div>
+ <img src="jlptsenseigrammar-n1-217.png">|<div>弁護士<font color="#e7000d">ともあろうものが</font>、犯罪に関わっていたなんて。</div>
+ <img src="jlptsenseigrammar-n1-218.png">|<div>休みの日にはどこへ行く<font color="#e7000d">ともなしに</font>ドライブすることが多い。</div>
+ <img src="jlptsenseigrammar-n1-219.png">|<div>彼は<font color="#e7000d">ともすれば</font>子どもに甘かった。</div>
+ <img src="jlptsenseigrammar-n1-220.png">|<div>それは正しい<font color="#e7000d">とも</font>、間違っている<font color="#e7000d">とも</font>言えない。</div>
+ <img src="jlptsenseigrammar-n1-221.png">|<div>彼女は<font color="#e7000d">とりわけ</font>音楽が好きです。</div>
+ <img src="jlptsenseigrammar-n1-222.png">|<div>彼<font color="#e7000d">としたことが</font>、こんな大きなミスをするなんて、信じられない。</div>
+ <img src="jlptsenseigrammar-n1-223.png">|<div>地震が起きた時に<font color="#e7000d">とっさに</font>テーブルの下に逃げた。</div>
+ <img src="jlptsenseigrammar-n1-224.png">|<div>新聞記事<font color="#e7000d">とて</font>、決していつも正確とは言えません。</div>
+ <img src="jlptsenseigrammar-n1-225.png">|<div>彼が犯人<font color="#e7000d">だったとは</font>…</div>
+ <img src="jlptsenseigrammar-n1-226.png">|<div>教師<font color="#e7000d">とはいえ</font>、答えられないこともある。</div>
+ <img src="jlptsenseigrammar-n1-227.png">|<div>彼女は美人で英語もぺらぺらだし、とても私<font color="#e7000d">とは比べものにならない</font>です。</div>
+ <img src="jlptsenseigrammar-n1-228.png">|<div>昔<font color="#e7000d">とは打って変わり</font>、今の僕の村は大きいな家がたくさんあります。</div>
+ <img src="jlptsenseigrammar-n1-229.png">|<div>たくさんの亀が池の中を<font color="#e7000d">浮きつ沈みつ</font>している。</div>
+ <img src="jlptsenseigrammar-n1-230.png">|<div>私は常に自分のベストをし<font color="#e7000d">尽くす</font>ようにしている。</div>
+ <img src="jlptsenseigrammar-n1-231.png">|<div>ほんと<font color="#e7000d">だってば</font>。彼女を見たんだ！</div>
+ <img src="jlptsenseigrammar-n1-232.png">|<div>日本語はちょっと複雑ですが、世界で一番難しい言語<font color="#e7000d">のうちに入らない</font>。</div>
+ <img src="jlptsenseigrammar-n1-233.png">|<div>知ってる<font color="#e7000d">わ</font>。</div>
+ <img src="jlptsenseigrammar-n1-234.png">|<div>天候<font color="#e7000d">はどうであれ</font>、行かなくてはならない。</div>
+ <img src="jlptsenseigrammar-n1-235.png">|<div>僕の地元はモール<font color="#e7000d">はおろか</font>コンビニ<font color="#e7000d">すら</font>ない。</div>
+ <img src="jlptsenseigrammar-n1-236.png">|<div>この本、内容<font color="#e7000d">はさておき</font>、タイトルはすごくいいと思う。</div>
+ <img src="jlptsenseigrammar-n1-237.png">|<div>彼は勉強<font color="#e7000d">そっちのけで</font>遊んでばかりいた。</div>
+ <img src="jlptsenseigrammar-n1-238.png">|<div>彼は最近によく遅刻する<font color="#e7000d">わ</font>宿題を忘れる<font color="#e7000d">わで</font>、どうしたんだろう。</div>
+ <img src="jlptsenseigrammar-n1-239.png">|<div>先生が教室に入る<font color="#e7000d">や否や</font>、学生たちはおしゃべりを辞めた。</div>
+ <img src="jlptsenseigrammar-n1-240.png">|<div>最近、息子は私の言うことなど、聞き<font color="#e7000d">やしない</font>。</div>
+ <img src="jlptsenseigrammar-n1-241.png">|<div><font color="#e7000d">やれ</font>出張<font color="#e7000d">だの</font>、<font color="#e7000d">やれ</font>会議<font color="#e7000d">だのと</font>、ゆっくりする暇もない。</div>
+ <img src="jlptsenseigrammar-n1-242.png">|<div>君が何歳<font color="#e7000d">であろうが</font>関係ない。仕事が出来ればいい。</div>
+ <img src="jlptsenseigrammar-n1-243.png">|<div>俺は魚<font color="#e7000d">だろうが</font>肉<font color="#e7000d">だろうが</font>、何でも食べる。</div>
+ <img src="jlptsenseigrammar-n1-244.png">|<div>この絵は見<font color="#e7000d">ようによっては</font>男性にも見えるし、女性にも見えます。</div>
+ <img src="jlptsenseigrammar-n1-245.png">|<div>風が強すぎて走ろ<font color="#e7000d">うにも</font>走れ<font color="#e7000d">ない</font>。</div>
+ <img src="jlptsenseigrammar-n1-246.png">|<div>彼が来<font color="#e7000d">ようが</font>来<font color="#e7000d">まいが</font>、私とは関係ない。</div>
+ <img src="jlptsenseigrammar-n1-247.png">|<div>貧しさ<font color="#e7000d">ゆえに</font>、彼は盗みを動いた。</div>
+ <img src="jlptsenseigrammar-n1-248.png">|<div>がんばる<font color="#e7000d">ぞ</font>！</div>
+ <img src="jlptsenseigrammar-n1-249.png">|<div>旅行前にガイドブックを買ったけど、使わ<font color="#e7000d">ずじまい</font>だった。</div>
+ <img src="jlptsenseigrammar-n1-250.png">|<div>やられたらやり返せ<font color="#e7000d">ずにはおかない</font>。</div>
+ <img src="jlptsenseigrammar-n1-251.png">|<div>明日はテストがありますから、いい点を取るために、勉強<font color="#e7000d">せずには済まない</font>。</div>
+ <img src="jlptsenseigrammar-n1-252.png">|<div>勉強<font color="#e7000d">せずとも</font>誰でも満点取れるくらい簡単だった。</div>
+ <img src="jlptsenseigrammar-n1-253.png">|<div>黒<font color="#e7000d">ずくめ</font>の服装をするのが好きだ。</div>
